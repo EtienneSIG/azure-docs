@@ -27,7 +27,7 @@ Organizations can enable diagnostic logging for their Azure Data Lake Storage Ge
 
 3. In the **Diagnostics settings** blade, make the following changes to configure diagnostic logging.
    
-    ![Screenshot of the Diagnostic setting section with the Name text box and the Save option called out.](./media/data-lake-store-diagnostic-logs/enable-diagnostic-logs_2022.png "Enable diagnostic logs")
+    ![Screenshot of the Diagnostic setting section with the Name text box and the Save option called out.](./media/data-lake-store-diagnostic-logs/enable-diagnostic-logs-2022.png "Enable diagnostic logs")
    
    * For **Name**, enter a value for the diagnostic log configuration.
    * You can choose to store/process the data in different ways.
